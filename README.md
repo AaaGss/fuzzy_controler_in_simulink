@@ -1,0 +1,2 @@
+# fuzzy_controler_in_simulink
+simulink实现的模糊控制器
